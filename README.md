@@ -1,7 +1,8 @@
 ### Hi there 👋  
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hinzdc.hinzdc&format=true)
-![](https://vbr.nathanchung.dev/badge?page_id=visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
+![](https://visitor-badge.laobi.icu/badge?page_id=hinzdc.hinzdc&format=true)
+
+![](https://vbr.nathanchung.dev/badge?page_id=hinzdc-hinzdc&color=55acb7&style=for-the-badge&logo=Github)
 
 <!--
 **hinzdc/hinzdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
